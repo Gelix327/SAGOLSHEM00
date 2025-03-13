@@ -3,7 +3,7 @@ public class country{
         if(true){
             System.out.println("I m the men");
         }
-        else;{
+        else{
             System.out.println("I m not men");
         }
     }
